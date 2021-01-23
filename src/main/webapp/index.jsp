@@ -2,10 +2,7 @@
 <html>
 <body>
 
-<h2>PSD DEVOPS . . . </h2>
-<p>AWS && DEVOPS</p>
-
-<button>Click me</button>
+<h2>Hello World . . . </h2>
 
 </body>
 </html>
